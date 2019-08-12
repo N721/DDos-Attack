@@ -13,7 +13,7 @@ menyajikan tantangan besar untuk
 memastikan orang dapat mempublikasikan 
 dan mengakses informasi penting
 
-### Dwonload & Instal
+### Download & Instal
 
 ### git clone 
 https://github.com/N721/DDos-Attack
